@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GraphAppCS (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GraphAppCS (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
